@@ -16,7 +16,7 @@ You can find the code for this project here.
 
 
 File overview:
-- `Stock Market Predictor.ipynb` - a jupyter notebook that contains all of the code.
+- `Stock_Market_Predictor.ipynb` - a jupyter notebook that contains all of the code.
 
 ## Data
 - I download all of the data during the project, using the yfinance package.
