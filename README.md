@@ -19,7 +19,7 @@ File overview:
 - `Stock_Market_Predictor.ipynb` - a jupyter notebook that contains all of the code.
 
 ## Data
-- I download all of the data during the project, using the yfinance package.
+- I downloaded all of the data during the project, using the yfinance package.
 
 
 ## Demo
